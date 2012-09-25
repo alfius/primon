@@ -3,7 +3,7 @@
 ######################################################################
 
 TEMPLATE = app
-TARGET = primon
+TARGET = ../bin/primon
 DEPENDPATH += .
 INCLUDEPATH += .
 
