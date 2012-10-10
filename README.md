@@ -5,6 +5,10 @@ Primon is a graphical application that let linux users configure the primary dis
 
 ![Alt desc](https://github.com/alfonsocora/files/raw/master/images/primon1.png)
 
+Installation
+------------
+[Debian and Ubuntu package](https://github.com/alfonsocora/primon/blob/master/pkg/primon_1.0-0ubuntu1_i386.deb?raw=true)
+
 Requirements
 ------------
 * Qt 4.7+ runtime
@@ -16,7 +20,8 @@ Primon is written in C++ using the Qt framework. It works as a wrapper of the "x
 
 TODOs
 -----
-* Create Debian and Ubuntu packages
+* Add icon and menu entries
+* Publish to Ubuntu software center
 
 License
 -------
