@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Primon
+Name[xx]=Primon
+GenericName=Primon
+Exec=primon
+Icon=primon
+Terminal=false
+Categories=Qt;KDE;Utility;

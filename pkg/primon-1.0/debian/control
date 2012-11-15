@@ -9,5 +9,5 @@ Homepage: https://github.com/alfonsocora/primon
 Package: primon
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, libqt4-dev
-Description: A tool that allows to configure the primary screen
- Primon is a graphical application that let linux users configure the primary display, since some linux distributions don't provide a graphical way to set that up.
+Description: Primon
+ A graphical application that let linux users configure the primary display, since some linux distributions don't provide a graphical way to set that up.

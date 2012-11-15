@@ -18,11 +18,6 @@ Technical overview
 ------------------
 Primon is written in C++ using the Qt framework. It works as a wrapper of the "xrandr" command.
 
-TODOs
------
-* Add icon and menu entries
-* Publish to Ubuntu software center
-
 License
 -------
 

@@ -1,0 +1,11 @@
+Package: primon
+Version: 1.0-0ubuntu1
+Architecture: i386
+Maintainer: Alfonso Cora <acora6@gmail.com>
+Installed-Size: 65
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libqtcore4 (>= 4:4.7.0~beta1), libqtgui4 (>= 4:4.5.3), libstdc++6 (>= 4.1.1), libqt4-dev
+Section: x11
+Priority: extra
+Homepage: https://github.com/alfonsocora/primon
+Description: Primon
+ A graphical application that let linux users configure the primary display, since some linux distributions don't provide a graphical way to set that up.
